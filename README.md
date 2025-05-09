@@ -1,2 +1,2 @@
 # Youtube-Video-Transcribe-Summarizer
-GenAI based LLM App using Google Gemini Pro to transcribe the video content and provide the summary.
+GenAI based LLM Application using Google Gemini Pro to transcribe the video content and to provide the summary of the video.
